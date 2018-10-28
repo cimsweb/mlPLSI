@@ -8,7 +8,7 @@ The paper proposes a method of multi-label classification for documents with top
 The article describes technology tools for the multi-label classification algorithm. A Topic Model is created by a supervised learning. We have estimated the classification quality and made a list of proposed categories for a word. 
 The developed approach has shown its efficiency. Probabilistic estimations of the assignment of a document to a category allow to use it in the collective recognition and associative classification. Further we will research the opportunities of multi-label classification with probabilistic topic model.
 
-License
+# License
 
 BigARTM is released under New BSD License that allowes unlimited redistribution for any purpose (even for commercial use) as long as its copyright notices and the license’s disclaimers of warranty are maintained.
 
